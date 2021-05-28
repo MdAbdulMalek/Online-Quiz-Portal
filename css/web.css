@@ -1,0 +1,93 @@
+.h{
+	background:#444;
+	padding:10px;
+	border:2px solid black;	
+	color:white;
+}
+#b{
+	background:#fff;
+	color:black;
+	
+}
+#d{
+	height:500px;
+	width:400px;
+	background:#dcdde1;
+	border:3px solid black;
+	border-radius:25px;
+	margin: 0 auto;
+	color:blue;	
+}
+#form{
+	color:black;
+	margin:5px;
+	text-align:center;
+	padding:3px;
+	height:30px;
+	width:380px;	
+}
+.img{	
+	height:150px;
+	width:250px;
+}
+
+#button{
+	color:black;
+	margin:5px;
+	text-align:center;
+	padding:2px;
+	height:30px;
+	width:200px;	
+	background:blue;
+	border-radius:25px;
+	
+}
+.ho{
+	background:#ff4d4d;
+	padding:10px;
+	border:2px solid black;	
+	color:blue;
+}
+#lol{
+	
+	color:white;
+	margin:5px;
+	text-align:center;
+	padding:2px;
+	height:35px;
+	width:100px;	
+	background:blue;
+	border-radius:5px;
+	
+}
+
+#lool{
+	
+	color:white;
+	margin:5px;
+	text-align:center;
+	padding:2px;
+	height:45px;
+	width:150px;	
+	background:green;
+	border-radius:5px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
